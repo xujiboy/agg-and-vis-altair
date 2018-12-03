@@ -1,0 +1,12 @@
+803045671 json/2dGaussian_grid_3200.json
+200814293 json/2dGaussian_grid_1600.json
+50163678 json/2dGaussian_grid_800.json
+12521080 json/2dGaussian_grid_400.json
+3127835 json/2dGaussian_grid_200.json
+779293 json/2dGaussian_grid_100.json
+636131 json/2dGaussian_grid_800_red.json
+636111 json/2dGaussian_grid_200_red.json
+636068 json/2dGaussian_grid_400_red.json
+636031 json/2dGaussian_grid_1600_red.json
+636019 json/2dGaussian_grid_100_red.json
+635996 json/2dGaussian_grid_3200_red.json
